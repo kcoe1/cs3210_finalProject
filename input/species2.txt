@@ -1,0 +1,7 @@
+plant u 7 5
+plant e 3 100000000
+herbivore P 4000
+herbivore Q 15
+omnivore W 4000
+omnivore N 30
+omnivore V 5000
